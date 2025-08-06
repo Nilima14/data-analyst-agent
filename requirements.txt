@@ -8,3 +8,4 @@ scikit-learn
 gunicorn
 requests
 beautifulsoup4
+duckdb
