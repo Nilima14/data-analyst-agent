@@ -9,3 +9,4 @@ gunicorn
 requests
 beautifulsoup4
 duckdb
+python-multipart
